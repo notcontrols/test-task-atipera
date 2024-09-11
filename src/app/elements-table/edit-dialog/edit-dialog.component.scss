@@ -1,0 +1,8 @@
+.container {
+  min-width: 450px;
+
+  .mat-mdc-dialog-content {
+    display: flex;
+    flex-direction: column;
+  }
+}
